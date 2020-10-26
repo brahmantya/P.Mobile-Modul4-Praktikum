@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">UI Component</string>
+    <string name="pria">PRIA</string>
+    <string name="wanita">WANITA</string>
+    <string name="coding">Coding</string>
+    <string name="reading">Reading</string>
+    <string name="traveling">Traveling</string>
+    <string name="tambah">tambah</string>
+    <string name="cancel">cancel</string>
+    <string name="nama">Nama:</string>
+    <string name="gender">Gender:</string>
+    <string name="hobi">Hobi:</string>
+    <string name="nama2">Nama</string>
+</resources>
